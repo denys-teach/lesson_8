@@ -220,6 +220,6 @@ body {
   font-weight: 500;
 }
 .footer__copyright {
-  font-size: 0.8125; /*13px*/
+  font-size: 0.8125rem; /*13px*/
   line-height: var(--line-height-lg);
 }
