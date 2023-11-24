@@ -187,11 +187,6 @@ body {
   font-weight: 500;
 }
 
-.experience-item__text {
-  /* ! видаляємо, бо заважає pixel perfect*/
-  /* line-height: var(--line-height-lg); */
-}
-
 .experience-item__image {
   order: -1;
 }
